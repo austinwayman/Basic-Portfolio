@@ -153,10 +153,12 @@ p {
 }
 
 .work {
-  float:center;
+  float:left;
+  height: 100%;
+  display: inline;
+  position: static;
 }
 
-
 .row {
-  display: inline;
+  height: 400px;
 }
