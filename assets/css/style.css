@@ -66,6 +66,7 @@
 
   #main-container { 
     border: 1px solid grey;
+    border-radius: 10px;
     width: 960px;
     float: center;
     background: whitesmoke;
