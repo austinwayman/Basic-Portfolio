@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;;
   }
 /* start of header */
   .container {
@@ -13,7 +13,7 @@
     border-bottom: solid;
     border-bottom-width: 1px;
     border-bottom-color: grey;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;;
   }
 
   header::after {
@@ -83,7 +83,7 @@
 
   h1 {
     color:lightseagreen;
-    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     margin-left: 20px;
   }
 
